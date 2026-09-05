@@ -199,8 +199,6 @@ The goal of GitHub Assistant is to make GitHub activity easier to understand and
 
 **Kirubakar**
 
-GitHub:
-https://github.com/kirubakar67-stack
 
 ## 📄 License
 
